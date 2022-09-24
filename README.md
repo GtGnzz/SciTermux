@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://bajetech.org/"><img title="MADE IN INDONESIA" src="https://img.shields.io/badge/-MADE%20IN%20NINDONESIA-green%2Cwhite%2Cgreen"></a>
+<a href="https://bajetech.org/"><img title="MADE IN INDONESIA" src="https://img.shields.io/badge/-MADE%20IN%20INDONESIA-green%2Cwhite%2Cgreen"></a>
 </p>
 <p align="center">
 <a href="https://bajetech.org/"><img title="MADE IN INDONESIA" src="https://img.shields.io/badge/Sci-Termux-green.svg"></a>
