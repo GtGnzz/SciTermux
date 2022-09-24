@@ -313,9 +313,9 @@ echo ""
 echo ""
 echo ""
 sleep 1.0
-mpv /data/data/com.termux/files/home/TermuxTheme/code/scifi.mp3
+mpv /data/data/com.termux/files/home/SciTermux/scifi.mp3
 clear
-cat /data/data/com.termux/files/home/TermuxTheme/code/box.cow | lolcat
+cat /data/data/com.termux/files/home/SciTermux/box.cow | lolcat
 sleep 0.0
 echo -e "\e[96m"
 echo "                    PLAY AUTO UPDATE UPGRADE"|lolcat
@@ -334,7 +334,7 @@ sleep 2.0
 clear
 echo -e "\e[32m"
 echo "🔐Login..."
-mpv /data/data/com.termux/files/home/TermuxTheme/code/login.mp3
+mpv /data/data/com.termux/files/home/SciTermux/login.mp3
 echo "🔓Login Succes✓"
 sleep 1.0
 echo -e "\e[96m"
