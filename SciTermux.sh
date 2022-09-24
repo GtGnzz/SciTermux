@@ -1,8 +1,6 @@
 #!/bin/bash
-# coded by BajeTech (AliByte01)
-# Created since on 10/02/2021 made in Nigeria by BajeTech (AliByte01)
+# coded by (GtGnzz)
 # If You Take Money For This Little Tool Bash Script Please Look At Your Self Again And Shame To You.
-# visit our website https://bajetech.org
 clear
 sleep 0.5
 echo ""
@@ -28,7 +26,7 @@ cd
 cd /$HOME
 rm //data/data/com.termux/files/usr/etc/bash.bashrc
 cd
-mv /data/data/com.termux/files/home/SciTermux/code/bash.bashrc //data/data/com.termux/files/usr/etc/bash.bashrc
+mv /data/data/com.termux/files/home/SciTermux/bash.bashrc //data/data/com.termux/files/usr/etc/bash.bashrc
 sleep 8.0
 echo "Completed, Your Termux Now Looking Awesome"|lolcat
 sleep 1.0
