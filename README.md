@@ -18,7 +18,7 @@ git clone https://github.com/GtGnzz/SciTermux
 * `chmod 777 *`
 * `./setup`
 * `ls`
-* `./SciT.sh`
+* `./SciTermux.sh`
 
 
 
@@ -29,7 +29,7 @@ DONT FORGET SUBSCRIBE CHANEL GTGNZZ12
 ## KETIK SCRIPT YANG ADA DI BAWAH UNTUK MENGINSTALL DAN MEMASANG SCITERMUX NYA```
 
 ## USAGE
-* ./TermuxTheme.sh
+* ./SciTermux.sh
 
 ## UNTUK MENGEDIT LOADING/TAMPILAN AWAL SCITERMUX
 
